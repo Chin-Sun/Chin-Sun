@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I will be a self-taught passionate system developer
 <!---
 Here are some ideas to get you started:
 
