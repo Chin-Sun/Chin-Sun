@@ -1,5 +1,6 @@
 ### Hi there 👋
-I will be a self-taught passionate system developer
+I will be a self-taught passionate system developer  
+Now I am learning FrontEnd by myself
 <!---
 Here are some ideas to get you started:
 
