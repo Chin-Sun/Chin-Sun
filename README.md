@@ -1,5 +1,5 @@
 ### Hi there 👋
-:star2: I will be a self-taught passionate system developer. 
+:sparkling_heart: I will be a self-taught passionate system developer. 
 
 <!---
 Here are some ideas to get you started:
