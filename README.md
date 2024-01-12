@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently unemployed.
 - 🌱 I’m currently learning data structure and JAVA.
-- 👯 I’m looking to collaborate on front-end and back-end.
+- 👯 I’m looking to collaborate on front-end and back-end field.
 <!---
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
