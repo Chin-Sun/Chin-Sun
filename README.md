@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 -->
 ## My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chin-Sun&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chin-Sun&layout=compact&theme=dark)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chin-Sun&theme=github-dark)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Chin-Sun&theme=onedark)
