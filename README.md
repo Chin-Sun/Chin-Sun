@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chin-Sun&theme=github-dark)
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Chin-Sun&theme=onedark)
 -->
+If you find this repository helpful, consider giving it a ⭐ and following me on GitHub. Let's collaborate and make the world a better place together!
