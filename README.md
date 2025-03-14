@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently unemployed.
-- 🌱 I’m currently using **Python** and **Go** language.
+- 🌱 I’m currently using **Python** and **JavaScript** language.
 - 👯 I’m looking to collaborate on Web Backend Development and DevOps development.
 - 📫 You can visit my home page to know me more: **https://chin-sun.github.io**
 
